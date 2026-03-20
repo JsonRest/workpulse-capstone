@@ -4,6 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > Predicting employee burnout before it costs you your best people.
+<img width="1713" height="822" alt="Workpulse Risk Assessment" src="https://github.com/user-attachments/assets/06dafc6f-fa16-4095-90d2-0cf96854ca2d" />
+<img width="1711" height="795" alt="Workpulse AI Advisor" src="https://github.com/user-attachments/assets/68e4fb17-c96c-4457-b279-fa73e1ef5726" />
+<img width="1709" height="814" alt="Workpulse EDA Summary" src="https://github.com/user-attachments/assets/b1273a53-8776-43fc-b305-c02494e12e8d" />
 
 ## 📋 Project Overview
 
