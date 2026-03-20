@@ -114,7 +114,7 @@ Demographic Parity, Equalized Odds, Disparate Impact across gender, age, income.
 
 ## 👤 Author
 
-**[Your Name]** — Post Graduate Programme in AI & Machine Learning
+**Jesse S. Liamzon** — Post Graduate Programme in AI & Machine Learning
 
 ## 📄 License
 
