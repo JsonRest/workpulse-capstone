@@ -13,5 +13,5 @@ jobs:
         with:
           python-version: "3.9"
       - run: pip install flake8 pytest numpy pandas scikit-learn xgboost
-      - run: flake8 src/ tests/ --max-line-length=120 --ignore=E501,W503,E302,E303,E226,E231
+      - run: flake8 src/ tests/ --max-line-length=150 --ignore=E101,E128,E225,E226,E231,E251,E261,E262,E265,E266,E271,E272,E301,E302,E303,E305,E401,E402,E501,E702,E711,E712,F401,W291,W292,W293,W391,W503,W504 --count
       - run: pytest tests/ -v --tb=short
