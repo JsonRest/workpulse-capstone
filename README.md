@@ -132,4 +132,19 @@ WorkPulse includes an **AI-powered burnout advisor** built with Claude API:
 | **AI Advisor Chat** | Multi-turn chatbot for HR managers to ask about risk, interventions, model details |
 | **Auto-EDA Generator** | LLM-generated exploratory data analysis summaries from dataset statistics |
 
+### Try It Yourself
+
+**Option 1: Open in browser (no setup needed)**
+Download [`deployment/WorkPulse_GenAI_Advisor.html`](deployment/WorkPulse_GenAI_Advisor.html) and open it in Chrome, Firefox, or Safari. The burnout prediction model runs locally in your browser — no server or installation required. The AI-powered features (insight generation, chat advisor, auto-EDA) use the Claude API and will work when the API is accessible.
+
+**Option 2: React artifact in Claude.ai**
+Upload [`deployment/WorkPulse_GenAI_Advisor.jsx`](deployment/WorkPulse_GenAI_Advisor.jsx) as an artifact in a Claude.ai conversation, or ask Claude to render it directly.
+
+**Option 3: Run with Node.js**
+```bash
+npx create-react-app workpulse-advisor
+cp deployment/WorkPulse_GenAI_Advisor.jsx workpulse-advisor/src/App.jsx
+cd workpulse-advisor && npm start
+```
+
 See `notebooks/07_genai_usage.ipynb` for documentation and `deployment/WorkPulse_GenAI_Advisor.jsx` for the app code.
